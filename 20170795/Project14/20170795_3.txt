@@ -1,0 +1,8 @@
+drop table bill; 
+drop table vehicletype;
+drop table deliveredby;
+drop table package;
+drop table Recipient;
+drop table Tracking;
+drop table vehicle;
+drop table Customer;

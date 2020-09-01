@@ -1,0 +1,8 @@
+Customer Name	 Address	 Amount
+Moon SangBeen	Gyeonggi	99000
+----------------------------------------------------------------------------------------
+Itemized Billing List
+========================================================================================
+Bill No | PackageID | Price | Product Type | Package Type | Service Type | Number Bought
+|	1	|	jydd5	|		$99000		|		box		|	Clothing	|	Prepaid(reserved)	|	1	|
+----------------------------------------------------------------------------------------
